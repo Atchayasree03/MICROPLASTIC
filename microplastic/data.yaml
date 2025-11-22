@@ -1,0 +1,5 @@
+names: ['microplastic']
+nc: 1
+train: /home/rithish/microplastic/train/images
+val: /home/rithish/microplastic/train/images
+
